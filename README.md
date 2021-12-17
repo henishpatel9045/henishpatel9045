@@ -1,5 +1,5 @@
 ### Hi there, I'm Henish Patel 👋
-![visitors](https://visitor-badge.glitch.me/badge?henishpatel9045=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=henishpatel9045&left_color=green&right_color=red)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henishpatel9045&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henishpatel9045&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 - 🔭 I’m currently working on ... KarannagarApp Project build with ReactNative and firebase.
