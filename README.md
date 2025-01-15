@@ -7,9 +7,8 @@ Full Stack Web Developer
 I am a student of Computer Science and currently pursuing B.Tech in C.S. I've been working with web technologies for past 3 years and have work on front-end, backend and full-stack projects.
 
 * 🌍  I'm based in Kadi
-* 🖥️  See my portfolio at [MyPortfolio](http://henishportfolio.pythonanywhere.com/henish/)
-* ✉️  You can contact me at [200120107182@git.org.in](mailto:200120107182@git.org.in)
-* 🧠  I'm learning Docker
+* ✉️  You can contact me at [henishpatel9045@gmail.com](mailto:henishpatel9045@gmail.com)
+* 🧠  I'm learning AIML @ [The University Of Adelaide](https://www.adelaide.edu.au/)
 * 🤝  I'm open to collaborating on React and Django framework.
 
 <a href="https://www.github.com/henishpatel9045" target="_blank" rel="noreferrer"><img
